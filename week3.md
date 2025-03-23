@@ -1,5 +1,4 @@
-### 
-![alt text](image.png)
+
 
 #### 题目一
 
