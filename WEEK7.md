@@ -1,4 +1,4 @@
-![alt text](image-5.png)
+### 题目一
 
 ```sql
 CREATE TABLE product (
@@ -15,11 +15,13 @@ P003,Wireless Headphones,149.00
 P004,Tablet,299.75
 P005,Smart Watch,199.99
 ```
+![image-6](https://github.com/user-attachments/assets/557d046b-861e-48f0-8de3-2f1cde55f2cf)
 
 
-![alt text](image-6.png)
 
-![alt text](image-7.png)
+![image-7](https://github.com/user-attachments/assets/12747b94-4d0d-4781-9f4b-beae5019cfc2)
+
+
 
 
 ### 题目二
@@ -31,7 +33,8 @@ VALUES ('666', 'cake', NULL);
 ```
 运行结果：
 
-![alt text](image-8.png)
+
+![image-8](https://github.com/user-attachments/assets/e3cab285-959c-45b3-b09b-edf89090e589)
 
 2.
 
@@ -43,7 +46,8 @@ VALUES
   ('P303', 'USB-C Cable', 12.00);
 ```
 运行结果：
-![alt text](image-9.png)
+
+![image-9](https://github.com/user-attachments/assets/f58679ac-7205-40cf-80d4-b1779d5864d3)
 
 3. 
 ```sql
@@ -53,7 +57,8 @@ WHERE price IS NOT NULL;  -- 仅更新已知价格的商品
 ```
 
 运行结果：
-![alt text](image-10.png)
+
+![image-10](https://github.com/user-attachments/assets/c1cfc98e-5c1b-4b6c-8ea5-1133fd0b6143)
 
 4. 
 
@@ -66,7 +71,8 @@ END
 WHERE price IS NOT NULL;  -- 仅更新已知价格的商品
 ```
 运行结果：
-![alt text](image-11.png)
+
+![image-11](https://github.com/user-attachments/assets/22b535e7-8325-4289-9ef9-44ed351f1f8b)
 
 
 5.
@@ -77,7 +83,8 @@ WHERE name ILIKE '%cake%';
 
 运行结果：
 
-![alt text](image-12.png)
+
+![image-12](https://github.com/user-attachments/assets/ed9f1ece-5809-49e9-9896-e02cb154e684)
 
 6. 
 ```sql
@@ -90,7 +97,8 @@ WHERE price > (
 ```
 运行结果：
 
-![alt text](image-13.png)
+
+![image-13](https://github.com/user-attachments/assets/04fbf93b-4cf8-41bb-bf03-b65e14169cc9)
 
 ### 题目3
 
